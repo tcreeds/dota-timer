@@ -1,0 +1,7 @@
+{
+  "@aws-cdk/core:enableStackNameDuplicates": "true",
+  "hosted-zone:account=175262026713:domainName=tcreeds.io:region=us-east-1": {
+    "Id": "/hostedzone/Z1QP8TYU5K3KS9",
+    "Name": "tcreeds.io."
+  }
+}
